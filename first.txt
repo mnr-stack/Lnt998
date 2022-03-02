@@ -1,11 +1,8 @@
 My name is mnr
 Learning devops
-<<<<<<< HEAD
 pushpa is a good movie
-=======
 
 Rishab pant is the captain of the Delhi capitals
 thopu thurum
 
 first match of IPL is going on between csk vs kkr
->>>>>>> branch-1
